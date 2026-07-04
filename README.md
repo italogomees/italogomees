@@ -6,6 +6,8 @@
 
 <img width="3780" height="1890" alt="Image" src="https://github.com/user-attachments/assets/886ad980-f745-4add-a622-4fc4ecd8840e" />
 
+##
+
 <i>"Se você só fizer o que sabe, nunca será mais do que é agora — Oogway"</i>
 
 - 📚 Cursando Técnico em Informática - **IFRN**
