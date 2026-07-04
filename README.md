@@ -12,7 +12,6 @@
 
 - 📚 Cursando Técnico em Informática - **IFRN**
 - ❄️ Friozinho Europeu
-
 ##
 
 <div> 
