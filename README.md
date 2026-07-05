@@ -1,6 +1,6 @@
 # 🍰 Ítalo Gomes
 
-<i>Meu nome é ***ítalo Gomes Inácio de Almeida Silva***, tenho 19 anos e estou no meu ultimo ano do curso de ***informática do IFRN.***. Sou muito interessado na área de informática desde pequeno e sempre estou aberto a novos métodos de aprendizado. Também possuo muito interesse na área de Design. Amante de doces.</i>
+<i>Meu nome é ***ítalo Gomes Inácio de Almeida Silva***, tenho 19 anos e estou no meu ultimo ano do curso de ***informática do IFRN.*** Sou muito interessado na área de informática desde pequeno e sempre estou aberto a novos métodos de aprendizado. Também possuo muito interesse na área de Design. Amante de doces.</i>
 
 ##
 
